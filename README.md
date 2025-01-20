@@ -315,9 +315,9 @@ The system makes use of various components which all come together to function e
  
 Fig.10.. SIMULATION STARTUP 
 
-    The system makes use of sensors to detect varying light intensity. How this works is the sensors detect light intensity from the different periods in time, like high levels of light during the day and low levels in the evenings or at night.
+   The system makes use of sensors to detect varying light intensity. How this works is the sensors detect light intensity from the different periods in time, like high levels of light during the day and low levels in the evenings or at night.
 
-    Now when this happens the sensors notify the system about these conditions which then act accordingly, turning off the street lights during the day and at noon, and then turning them on in the evenings or at night, As shown below;
+   Now when this happens the sensors notify the system about these conditions which then act accordingly, turning off the street lights during the day and at noon, and then turning them on in the evenings or at night, As shown below;
 
  
 Fig.11.. THE SYSTEM AT HIGH LIGHT INTENSITY
@@ -328,7 +328,7 @@ Fig.11.. THE SYSTEM AT HIGH LIGHT INTENSITY
 Fig.12.. THE SYSTEM AT LOW LIGHT INTENSITY
 (IN THE EVENING OR AT NIGHT)
 
-    The response of the street lights to low levels of light intensity is that it slowly but gradually comes on little by little as the light intensity reduces until its in full bloom.
+   The response of the street lights to low levels of light intensity is that it slowly but gradually comes on little by little as the light intensity reduces until its in full bloom.
     Hence this aids everyone visually by providing light at night or in the evening, especially on busy roads which are usually prone to accidents. 
 
 
